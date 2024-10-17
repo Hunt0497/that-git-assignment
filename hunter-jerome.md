@@ -1,9 +1,7 @@
 # Jerome Hunter
-
+---
 ## Mobile Developer
-
 Thank you for checking my website
-
 Here are three youtube videos about tech that I would recommend:
 
 - [iOS Roadmap to Professional Developer: Skills you MUST have!](https://www.youtube.com/watch?v=7Td1RfB8nVs&ab_channel=Rebeloper-RebelDeveloper)
